@@ -12,7 +12,7 @@ The Customer Churn Predictor is a machine learning-based application designed to
 - Web Application: A user-friendly interface built with Streamlit to input customer data and predict churn probability.
 
 ## Web Application
-Access the deployed web application here: [Customer Churn Predictor](https://customer-churn-predictor-6fbgdjbin94xvxvappm9jsn.streamlit.app/)
+Access the deployed web application here: [Customer Churn Predictor](https://customerchurnpredictor-g6uyrmeh3guzokqwfcbjmh.streamlit.app/)
 
 ## Project Structure
 
